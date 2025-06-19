@@ -1,1 +1,0 @@
-# muhasebe-c-sharp
